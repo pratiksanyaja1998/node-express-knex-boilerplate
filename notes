@@ -1,0 +1,11 @@
+
+
+
+
+knex migrations
+===========================
+knex migrate:make add_sequence_into_approvers
+
+
+
+
